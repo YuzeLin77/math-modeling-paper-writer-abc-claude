@@ -1,2 +1,3 @@
 # math-modeling-paper-writer-abc-claude
 一款面向数学建模论文写作助手，基于近年真题与优秀论文范式提炼而成。提供摘要公式、全文骨架、图表规范、数字台账与避坑清单，帮助将已建好的模型和计算结果整理成高质量学术文本。同时支持 TRAE、Claude Code 与 Codex 三种 Agent。
+This is a writing assistant specifically designed for mathematical modeling papers. It is based on the analysis of recent exam questions and excellent paper models. It provides summary formulas, full-text frameworks, chart norms, numerical records and a list of pitfalls to help organize the established models and calculation results into high-quality academic texts. It also supports three types of Agents: TRAE, Claude Code, and Codex.
